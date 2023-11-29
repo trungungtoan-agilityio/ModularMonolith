@@ -12,7 +12,7 @@ public static class ServiceCollectionExtensions
     {
         services
             .AddDatabaseContext<CatalogDbContext>(config)
-            .AddScoped<ICatalogDbContext>(provider => provider.GetService<CatalogDbContext>() ?? throw new InvalidOperationException());
+            .AddScoped<ICatalogDbContext>(provider => provider.GetService<CatalogDbContext>());
         return services;
     }
 }

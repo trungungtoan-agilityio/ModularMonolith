@@ -1,4 +1,7 @@
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using Module.Catalog.Core.Commands.Register;
+using Module.Catalog.Core.Queries.GetAll;
 
 namespace Module.Catalog.Controllers;
 
@@ -6,9 +9,22 @@ namespace Module.Catalog.Controllers;
 [Route("/api/catalog/[controller]")]
 internal class BrandsController : ControllerBase
 {
-    [HttpGet]
-    public Task<IActionResult> GetAllAsync()
+    private readonly IMediator _mediator;
+    public BrandsController(IMediator mediator)
     {
-        return Task.FromResult<IActionResult>(Ok());
+        _mediator = mediator;
+    }
+
+    [HttpGet]
+    public async Task<IActionResult> GetAllAsync()
+    {
+        var brands = await _mediator.Send(new GetAllBrandsQuery());
+        return Ok(brands);
+    }
+    
+    [HttpPost]
+    public async Task<IActionResult> RegisterAsync(RegisterBrandCommand command)
+    {
+        return Ok(await _mediator.Send(command));
     }
 }
