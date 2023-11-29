@@ -13,3 +13,4 @@
 /Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/refint/Module.People.Core.dll
 /Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/Module.People.Core.pdb
 /Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/ref/Module.People.Core.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/Module.People.Core.sourcelink.json

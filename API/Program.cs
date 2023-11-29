@@ -1,4 +1,5 @@
 using Microsoft.OpenApi.Models;
+using Module.Catalog.Extensions;
 using Shared.Infrastructure.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSharedInfrastructure(builder.Configuration);
+builder.Services.AddCatalogModule(builder.Configuration);
 
 builder.Services.AddSwaggerGen(c =>
 {

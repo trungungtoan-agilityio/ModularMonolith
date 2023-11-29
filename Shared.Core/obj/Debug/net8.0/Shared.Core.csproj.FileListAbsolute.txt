@@ -9,3 +9,5 @@
 /Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Core/obj/Debug/net8.0/refint/Shared.Core.dll
 /Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Core/obj/Debug/net8.0/Shared.Core.pdb
 /Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Core/obj/Debug/net8.0/ref/Shared.Core.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Core/obj/Debug/net8.0/Shared.Core.sourcelink.json
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Core/obj/Debug/net8.0/Shared.Core.csproj.AssemblyReference.cache

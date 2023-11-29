@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Jq4JXN0+be3Vn3C4lP9HMaiFVklkBHfKau28cYAgFeCTXlPHZxHelHCzuMOLcIK5PnZBX7ED7EO4y7AJOqrsQg==",
+  "dgSpecHash": "ZpZwBkdd7sn83Y2m4CTPKRrd+amcNdhSU6d4HCy5qoTNcLAG/O3a2p/WcSFq5/PZg50nHJ2ZbbqY4Qt2n1XVcQ==",
   "success": true,
   "projectFilePath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Core/Shared.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/trungu/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/trungu/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/trungu/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

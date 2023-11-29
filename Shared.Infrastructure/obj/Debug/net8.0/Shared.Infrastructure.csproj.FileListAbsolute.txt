@@ -9,3 +9,7 @@
 /Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/refint/Shared.Infrastructure.dll
 /Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/Shared.Infrastructure.pdb
 /Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/ref/Shared.Infrastructure.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/bin/Debug/net8.0/Shared.Infrastructure.runtimeconfig.json
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/Shared.Infrastructure.csproj.AssemblyReference.cache
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/Shared.Infrastructure.sourcelink.json
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/Shared.Infrastructure.genruntimeconfig.cache

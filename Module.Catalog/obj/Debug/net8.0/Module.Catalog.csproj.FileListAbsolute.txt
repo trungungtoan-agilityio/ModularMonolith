@@ -19,3 +19,4 @@
 /Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog/obj/Debug/net8.0/refint/Module.Catalog.dll
 /Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog/obj/Debug/net8.0/Module.Catalog.pdb
 /Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog/obj/Debug/net8.0/ref/Module.Catalog.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog/obj/Debug/net8.0/Module.Catalog.sourcelink.json
