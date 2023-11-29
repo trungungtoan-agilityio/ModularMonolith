@@ -1,0 +1,15 @@
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/bin/Debug/net8.0/Module.People.Core.deps.json
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/bin/Debug/net8.0/Module.People.Core.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/bin/Debug/net8.0/Module.People.Core.pdb
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/bin/Debug/net8.0/Shared.Core.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/bin/Debug/net8.0/Shared.Core.pdb
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/Module.People.Core.csproj.AssemblyReference.cache
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/Module.People.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/Module.People.Core.AssemblyInfoInputs.cache
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/Module.People.Core.AssemblyInfo.cs
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/Module.People.Core.csproj.CoreCompileInputs.cache
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/Module.People.Core.csproj.CopyComplete
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/Module.People.Core.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/refint/Module.People.Core.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/Module.People.Core.pdb
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/Debug/net8.0/ref/Module.People.Core.dll

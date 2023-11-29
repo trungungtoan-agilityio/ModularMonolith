@@ -1,0 +1,11 @@
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/bin/Debug/net8.0/Shared.Infrastructure.deps.json
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/bin/Debug/net8.0/Shared.Infrastructure.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/bin/Debug/net8.0/Shared.Infrastructure.pdb
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/Shared.Infrastructure.AssemblyInfoInputs.cache
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/Shared.Infrastructure.AssemblyInfo.cs
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/Shared.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/Shared.Infrastructure.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/refint/Shared.Infrastructure.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/Shared.Infrastructure.pdb
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/Debug/net8.0/ref/Shared.Infrastructure.dll

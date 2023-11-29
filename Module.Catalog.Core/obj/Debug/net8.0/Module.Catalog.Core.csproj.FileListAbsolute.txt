@@ -1,0 +1,15 @@
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/bin/Debug/net8.0/Module.Catalog.Core.deps.json
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/bin/Debug/net8.0/Module.Catalog.Core.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/bin/Debug/net8.0/Module.Catalog.Core.pdb
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/bin/Debug/net8.0/Shared.Core.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/bin/Debug/net8.0/Shared.Core.pdb
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/obj/Debug/net8.0/Module.Catalog.Core.csproj.AssemblyReference.cache
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/obj/Debug/net8.0/Module.Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/obj/Debug/net8.0/Module.Catalog.Core.AssemblyInfoInputs.cache
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/obj/Debug/net8.0/Module.Catalog.Core.AssemblyInfo.cs
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/obj/Debug/net8.0/Module.Catalog.Core.csproj.CoreCompileInputs.cache
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/obj/Debug/net8.0/Module.Catalog.Core.csproj.CopyComplete
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/obj/Debug/net8.0/Module.Catalog.Core.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/obj/Debug/net8.0/refint/Module.Catalog.Core.dll
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/obj/Debug/net8.0/Module.Catalog.Core.pdb
+/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.Catalog.Core/obj/Debug/net8.0/ref/Module.Catalog.Core.dll

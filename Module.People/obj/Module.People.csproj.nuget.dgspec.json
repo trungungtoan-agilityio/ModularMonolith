@@ -1,0 +1,294 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People/Module.People.csproj": {}
+  },
+  "projects": {
+    "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/Module.People.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/Module.People.Core.csproj",
+        "projectName": "Module.People.Core",
+        "projectPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/Module.People.Core.csproj",
+        "packagesPath": "/Users/trungu/.nuget/packages/",
+        "outputPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/trungu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Core/Shared.Core.csproj": {
+                "projectPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Core/Shared.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Infrastructure/Module.People.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Infrastructure/Module.People.Infrastructure.csproj",
+        "projectName": "Module.People.Infrastructure",
+        "projectPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Infrastructure/Module.People.Infrastructure.csproj",
+        "packagesPath": "/Users/trungu/.nuget/packages/",
+        "outputPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/trungu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/Module.People.Core.csproj": {
+                "projectPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/Module.People.Core.csproj"
+              },
+              "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/Shared.Infrastructure.csproj": {
+                "projectPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/Shared.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People/Module.People.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People/Module.People.csproj",
+        "projectName": "Module.People",
+        "projectPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People/Module.People.csproj",
+        "packagesPath": "/Users/trungu/.nuget/packages/",
+        "outputPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/trungu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/Module.People.Core.csproj": {
+                "projectPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Core/Module.People.Core.csproj"
+              },
+              "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Infrastructure/Module.People.Infrastructure.csproj": {
+                "projectPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Module.People.Infrastructure/Module.People.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Core/Shared.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Core/Shared.Core.csproj",
+        "projectName": "Shared.Core",
+        "projectPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Core/Shared.Core.csproj",
+        "packagesPath": "/Users/trungu/.nuget/packages/",
+        "outputPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/trungu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/Shared.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/Shared.Infrastructure.csproj",
+        "projectName": "Shared.Infrastructure",
+        "projectPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/Shared.Infrastructure.csproj",
+        "packagesPath": "/Users/trungu/.nuget/packages/",
+        "outputPath": "/Users/trungu/Projects/Asoft/Dotnet-Practices/ModularMonolith/Shared.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/trungu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
